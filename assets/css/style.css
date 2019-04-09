@@ -21,7 +21,7 @@ h1 {
 }
 h3 {
     text-align: center;
-    margin: 20px auto 400px auto;
+    margin: 20px auto 40px auto;
     color: aliceblue;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 50px;
@@ -29,12 +29,18 @@ h3 {
 }
 h4 {
     text-align: center;
-    float: left;
+    /* float: left; */
     margin: 0 50px 40px 100px;
     color: aliceblue;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 50px;
     text-shadow: rgb(2, 180, 211) 5px 5px 5px;
+}
+#category {
+    margin-bottom: 20px;
+}
+#hold {
+    margin: 0 auto;
 }
 .container {
     display: inline-block;
